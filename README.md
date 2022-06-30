@@ -1,6 +1,6 @@
 # cpprun
 
-A utility program to run c++ code with an easier method
+A utility program to build and run c++ code in a single command.
 
 Instead of `g++ input.cpp -o output.exe` then `./output.exe`.
 
